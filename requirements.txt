@@ -1,0 +1,11 @@
+google-cloud-aiplatform==1.106.0
+google-cloud-storage==2.19.0
+google-cloud-language==2.17.2
+datasets==4.0.0
+python-dotenv==1.1.1
+pandas==2.3.1
+spacy==3.8.7
+pytextrank==3.3.0
+rouge_score==0.1.2
+google-cloud-firestore==2.21.0
+pydantic-settings==2.10.1
